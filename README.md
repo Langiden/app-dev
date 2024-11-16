@@ -2,7 +2,7 @@
 My first repository
 ----
 
-##**Favorite Movies/Series**
+## **Favorite Movies/Series**
 
 1. The Chosen
 - An on-going Christian Series, currently having four seasons, and is planned to reach Season 7.
